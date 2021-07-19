@@ -42,6 +42,175 @@ body.dark {
   font-family: 'QETony_Font';
   src: url(../fonts/QETonyFlores.ttf);
 }
+@font-face {
+  font-family: 'QEAntonyLark';
+  src: url(../fonts/QEAntonyLark.ttf);
+}
+
+@font-face {
+  font-family: 'QEBEVfont';
+  src: url(../fonts/QEBEVfont.ttf);
+}
+
+@font-face {
+  font-family: 'QECarolineMutiboko';
+  src: url(../fonts/QECarolineMutiboko.ttf);
+}
+
+@font-face {
+  font-family: 'QEDaveMergens';
+  src: url(../fonts/QEDaveMergens.ttf);
+}
+
+@font-face {
+  font-family: 'QECursiveVersion';
+  src: url(../fonts/QECursiveVersion.ttf);
+}
+
+@font-face {
+  font-family: 'QEDaveMergens';
+  src: url(../fonts/QEDaveMergens.ttf);
+}
+
+@font-face {
+  font-family: 'QEDavidReid';
+  src: url(../fonts/QEDavidReid.ttf);
+}
+
+@font-face {
+  font-family: 'QEDavidReidCAP';
+  src: url(../fonts/QEDavidReidCAP.ttf);
+}
+
+@font-face {
+  font-family: 'QEDonaldRoss';
+  src: url(../fonts/QEDonaldRoss.ttf);
+}
+
+@font-face {
+  font-family: 'QEDSFont';
+  src: url(../fonts/QEDSFont.ttf);
+}
+
+@font-face {
+  font-family: 'QEGarrettWMoretz';
+  src: url(../fonts/QEGarrettWMoretz.ttf);
+}
+
+@font-face {
+  font-family: 'QEgeeKzoid';
+  src: url(../fonts/QEgeeKzoid.ttf);
+}
+
+@font-face {
+  font-family: 'QEGHHughes';
+  src: url(../fonts/QEGHHughes.ttf);
+}
+
+@font-face {
+  font-family: 'QEJeffDungan';
+  src: url(../fonts/QEJeffDungan.ttf);
+}
+
+@font-face {
+  font-family: 'QEJER';
+  src: url(../fonts/QEJER.ttf);
+}
+
+@font-face {
+  font-family: 'QEJohnCaplin';
+  src: url(../fonts/QEJohnCaplin.ttf);
+}
+
+@font-face {
+  font-family: 'QEJohnWilliams';
+  src: url(../fonts/QEJohnWilliams.ttf);
+}
+
+@font-face {
+  font-family: 'QEJulianDean';
+  src: url(../fonts/QEJulianDean.ttf);
+}
+
+@font-face {
+  font-family: 'QEKevinKnowles';
+  src: url(../fonts/QEKevinKnowles.ttf);
+}
+
+@font-face {
+  font-family: 'QEKevinShirley';
+  src: url(../fonts/QEKevinShirley.ttf);
+}
+
+@font-face {
+  font-family: 'QEKunjarScript';
+  src: url(../fonts/QEKunjarScript.ttf);
+}
+
+@font-face {
+  font-family: 'QEMamasAndPapas';
+  src: url(../fonts/QEMamasAndPapas.ttf);
+}
+
+@font-face {
+  font-family: 'QEPamRosenberry';
+  src: url(../fonts/QEPamRosenberry.ttf);
+}
+
+@font-face {
+  font-family: 'QEPhilipBean';
+  src: url(../fonts/QEPhilipBean.ttf);
+}
+
+@font-face {
+  font-family: 'QEPhillips';
+  src: url(../fonts/QEPhillips.ttf);
+}
+
+@font-face {
+  font-family: 'QEPrintVersion';
+  src: url(../fonts/QEPrintVersion.ttf);
+}
+
+@font-face {
+  font-family: 'QERoystonSuch';
+  src: url(../fonts/QERoystonSuch.ttf);
+}
+
+@font-face {
+  font-family: 'QERoystonSuchCAP';
+  src: url(../fonts/QERoystonSuchCAP.ttf);
+}
+
+@font-face {
+  font-family: 'QERufus';
+  src: url(../fonts/QERufus.ttf);
+}
+
+@font-face {
+  font-family: 'QERuthStafford';
+  src: url(../fonts/QERuthStafford.ttf);
+}
+
+@font-face {
+  font-family: 'QESamRoberts';
+  src: url(../fonts/QESamRoberts.ttf);
+}
+
+@font-face {
+  font-family: 'QESamRoberts2';
+  src: url(../fonts/QESamRoberts2.ttf);
+}
+
+@font-face {
+  font-family: 'QEScottWilliams';
+  src: url(../fonts/QEScottWilliams.ttf);
+}
+
+@font-face {
+  font-family: 'QEVRead';
+  src: url(../fonts/QEVRead.ttf);
+}
 
 /* Default CSS Changes */
 * {
